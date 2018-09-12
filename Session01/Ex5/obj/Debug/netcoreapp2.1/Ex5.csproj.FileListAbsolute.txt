@@ -1,0 +1,11 @@
+C:\DNP\Ex5\bin\Debug\netcoreapp2.1\Ex5.deps.json
+C:\DNP\Ex5\bin\Debug\netcoreapp2.1\Ex5.runtimeconfig.json
+C:\DNP\Ex5\bin\Debug\netcoreapp2.1\Ex5.runtimeconfig.dev.json
+C:\DNP\Ex5\bin\Debug\netcoreapp2.1\Ex5.dll
+C:\DNP\Ex5\bin\Debug\netcoreapp2.1\Ex5.pdb
+C:\DNP\Ex5\obj\Debug\netcoreapp2.1\Ex5.csprojAssemblyReference.cache
+C:\DNP\Ex5\obj\Debug\netcoreapp2.1\Ex5.csproj.CoreCompileInputs.cache
+C:\DNP\Ex5\obj\Debug\netcoreapp2.1\Ex5.AssemblyInfoInputs.cache
+C:\DNP\Ex5\obj\Debug\netcoreapp2.1\Ex5.AssemblyInfo.cs
+C:\DNP\Ex5\obj\Debug\netcoreapp2.1\Ex5.dll
+C:\DNP\Ex5\obj\Debug\netcoreapp2.1\Ex5.pdb

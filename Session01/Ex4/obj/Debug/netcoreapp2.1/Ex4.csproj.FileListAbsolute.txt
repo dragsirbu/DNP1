@@ -1,0 +1,11 @@
+C:\DNP\Ex4\obj\Debug\netcoreapp2.1\Ex4.csprojAssemblyReference.cache
+C:\DNP\Ex4\obj\Debug\netcoreapp2.1\Ex4.csproj.CoreCompileInputs.cache
+C:\DNP\Ex4\obj\Debug\netcoreapp2.1\Ex4.AssemblyInfoInputs.cache
+C:\DNP\Ex4\obj\Debug\netcoreapp2.1\Ex4.AssemblyInfo.cs
+C:\DNP\Ex4\bin\Debug\netcoreapp2.1\Ex4.deps.json
+C:\DNP\Ex4\bin\Debug\netcoreapp2.1\Ex4.runtimeconfig.json
+C:\DNP\Ex4\bin\Debug\netcoreapp2.1\Ex4.runtimeconfig.dev.json
+C:\DNP\Ex4\bin\Debug\netcoreapp2.1\Ex4.dll
+C:\DNP\Ex4\bin\Debug\netcoreapp2.1\Ex4.pdb
+C:\DNP\Ex4\obj\Debug\netcoreapp2.1\Ex4.dll
+C:\DNP\Ex4\obj\Debug\netcoreapp2.1\Ex4.pdb

@@ -1,0 +1,11 @@
+C:\DNP\Ex8\bin\Debug\netcoreapp2.1\Ex8.deps.json
+C:\DNP\Ex8\bin\Debug\netcoreapp2.1\Ex8.runtimeconfig.json
+C:\DNP\Ex8\bin\Debug\netcoreapp2.1\Ex8.runtimeconfig.dev.json
+C:\DNP\Ex8\bin\Debug\netcoreapp2.1\Ex8.dll
+C:\DNP\Ex8\bin\Debug\netcoreapp2.1\Ex8.pdb
+C:\DNP\Ex8\obj\Debug\netcoreapp2.1\Ex8.csprojAssemblyReference.cache
+C:\DNP\Ex8\obj\Debug\netcoreapp2.1\Ex8.csproj.CoreCompileInputs.cache
+C:\DNP\Ex8\obj\Debug\netcoreapp2.1\Ex8.AssemblyInfoInputs.cache
+C:\DNP\Ex8\obj\Debug\netcoreapp2.1\Ex8.AssemblyInfo.cs
+C:\DNP\Ex8\obj\Debug\netcoreapp2.1\Ex8.dll
+C:\DNP\Ex8\obj\Debug\netcoreapp2.1\Ex8.pdb

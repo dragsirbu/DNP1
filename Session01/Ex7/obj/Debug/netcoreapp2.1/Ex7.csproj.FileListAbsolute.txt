@@ -1,0 +1,11 @@
+C:\DNP\Ex7\bin\Debug\netcoreapp2.1\Ex7.deps.json
+C:\DNP\Ex7\bin\Debug\netcoreapp2.1\Ex7.runtimeconfig.json
+C:\DNP\Ex7\bin\Debug\netcoreapp2.1\Ex7.runtimeconfig.dev.json
+C:\DNP\Ex7\bin\Debug\netcoreapp2.1\Ex7.dll
+C:\DNP\Ex7\bin\Debug\netcoreapp2.1\Ex7.pdb
+C:\DNP\Ex7\obj\Debug\netcoreapp2.1\Ex7.csprojAssemblyReference.cache
+C:\DNP\Ex7\obj\Debug\netcoreapp2.1\Ex7.csproj.CoreCompileInputs.cache
+C:\DNP\Ex7\obj\Debug\netcoreapp2.1\Ex7.AssemblyInfoInputs.cache
+C:\DNP\Ex7\obj\Debug\netcoreapp2.1\Ex7.AssemblyInfo.cs
+C:\DNP\Ex7\obj\Debug\netcoreapp2.1\Ex7.dll
+C:\DNP\Ex7\obj\Debug\netcoreapp2.1\Ex7.pdb
