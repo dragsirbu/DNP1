@@ -1,5 +1,5 @@
-﻿;
-
+﻿using System;
+using System.Collections.Generic;
 
 namespace Ex04
 {
@@ -7,7 +7,26 @@ namespace Ex04
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<Animal> animalList = new List<Animal>();
+            animalList.Add(new Animal("Dog",20,20));
+            animalList.Add(new Animal("Cat",8,15));
+            animalList.Add(new Animal("Horse",400,70));
+            animalList.Add(new Animal("Chicken",5,7));
+            animalList.Add(new Animal("Cow",500,5));
+
+            foreach (var animal in animalList)
+            {
+                Console.WriteLine(animal.ToString());
+            }
+
+            animalList.Sort();
+            
+            Console.WriteLine("After sort:");
+
+            foreach (var animal in animalList)
+            {
+                Console.WriteLine(animal.ToString());
+            }
             
         }
     }

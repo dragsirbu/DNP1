@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4aee4084-fba3-4b30-a65f-5f1869ecbe2d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Animal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IComparable.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Ex04.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Ex04.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Ex04.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Ex04.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Ex04.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex04.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex04.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex04.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex04.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex04.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex04.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex04.csprojResolveAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex04.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex04.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+    <list default="true" id="a0e7a994-2b88-485d-bb33-93bc42cd2acc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/Animal.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/IComparable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Session02/Ex04/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/bin/Debug/netcoreapp2.1/Ex04.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/bin/Debug/netcoreapp2.1/Ex04.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/bin/Debug/netcoreapp2.1/Ex04.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/bin/Debug/netcoreapp2.1/Ex04.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/bin/Debug/netcoreapp2.1/Ex04.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/obj/Debug/netcoreapp2.1/Ex04.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/obj/Debug/netcoreapp2.1/Ex04.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/obj/Debug/netcoreapp2.1/Ex04.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/obj/Debug/netcoreapp2.1/Ex04.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/obj/Debug/netcoreapp2.1/Ex04.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/obj/Debug/netcoreapp2.1/Ex04.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/obj/Debug/netcoreapp2.1/Ex04.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/obj/Debug/netcoreapp2.1/Ex04.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/obj/Debug/netcoreapp2.1/Ex04.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session02/Ex04/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,46 +30,66 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1262244760">
+    <session id="-1748311107">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="3" />
+          <entry key="cs" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="3" />
+          <entry key="C#" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="47" />
+          <entry key="cs" value="474" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="47" />
+          <entry key="C#" value="474" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="345">
+              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
               <folding>
-                <marker date="1537799384401" expanded="true" signature="18:172" ph="{...}" />
-                <marker date="1537799384401" expanded="true" signature="38:170" ph="{...}" />
-                <marker date="1537799384401" expanded="true" signature="84:164" ph="{...}" />
+                <marker date="1537799753561" expanded="true" signature="6:47" ph="..." />
+                <marker date="1537799753561" expanded="true" signature="63:848" ph="{...}" />
+                <marker date="1537799753561" expanded="true" signature="83:846" ph="{...}" />
+                <marker date="1537799753561" expanded="true" signature="129:840" ph="{...}" />
+                <marker date="1537799753561" expanded="true" signature="514:596" ph="{...}" />
+                <marker date="1537799753561" expanded="true" signature="735:817" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Animal.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
+              <folding>
+                <marker date="1537799935156" expanded="true" signature="29:740" ph="{...}" />
+                <marker date="1537799935156" expanded="true" signature="69:738" ph="{...}" />
+                <marker date="1537799935156" expanded="true" signature="266:388" ph="{...}" />
+                <marker date="1537799935156" expanded="true" signature="430:577" ph="{...}" />
+                <marker date="1537799935156" expanded="true" signature="620:732" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -78,17 +98,17 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Animal.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Animal.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Animal.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Animal.cs" />
       </list>
     </option>
   </component>
@@ -99,29 +119,36 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer">
+      <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="Ex04" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Ex04" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Ex04" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Ex04" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
+        <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,22 +168,42 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4aee4084-fba3-4b30-a65f-5f1869ecbe2d" name="Default Changelist" comment="" />
-      <created>1537799222842</created>
+      <changelist id="a0e7a994-2b88-485d-bb33-93bc42cd2acc" name="Default Changelist" comment="" />
+      <created>1537799384728</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537799222842</updated>
-      <workItem from="1537799225564" duration="159000" />
+      <updated>1537799384728</updated>
+      <workItem from="1537799385856" duration="566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159000" />
+    <option name="totallyTimeSpent" value="566000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -171,22 +218,22 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10604027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" order="0" />
-      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32907802" />
-      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Unit Tests Coverage" />
@@ -214,16 +261,31 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Animal.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="345">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
           <folding>
-            <marker date="1537799384401" expanded="true" signature="18:172" ph="{...}" />
-            <marker date="1537799384401" expanded="true" signature="38:170" ph="{...}" />
-            <marker date="1537799384401" expanded="true" signature="84:164" ph="{...}" />
+            <marker date="1537799753561" expanded="true" signature="6:47" ph="..." />
+            <marker date="1537799753561" expanded="true" signature="63:848" ph="{...}" />
+            <marker date="1537799753561" expanded="true" signature="83:846" ph="{...}" />
+            <marker date="1537799753561" expanded="true" signature="129:840" ph="{...}" />
+            <marker date="1537799753561" expanded="true" signature="514:596" ph="{...}" />
+            <marker date="1537799753561" expanded="true" signature="735:817" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
+          <folding>
+            <marker date="1537799935156" expanded="true" signature="29:740" ph="{...}" />
+            <marker date="1537799935156" expanded="true" signature="69:738" ph="{...}" />
+            <marker date="1537799935156" expanded="true" signature="266:388" ph="{...}" />
+            <marker date="1537799935156" expanded="true" signature="430:577" ph="{...}" />
+            <marker date="1537799935156" expanded="true" signature="620:732" ph="{...}" />
           </folding>
         </state>
       </provider>

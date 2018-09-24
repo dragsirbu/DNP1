@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\DNP\Session02\Ex04" t="IncludeFlat" />
+    <e p="C:\DNP\Ex04" t="IncludeRecursive">
+      <e p="Animal.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Ex04.csproj" t="IncludeRecursive" />
+      <e p="Ex04.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="Ex04.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
     <e p="C:\Users\drags\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\drags\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Ex04.-138047677.00" t="ExcludeRecursive" />
+    <e p="C:\Users\drags\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Ex04.1319929083.00" t="ExcludeRecursive" />
   </component>
 </project>
