@@ -6,11 +6,11 @@ namespace Ex04
     {
         static void Main(string[] args)
         {
-            Player player = new Player();
-            Enemy enemy = new Enemy(15);
-            player.Shout("Ready Player One!");
+            var player = new Player();
+            
+            player.Shout("Yo, bitch!");
             player.Shout(5);
-            player.Shout(enemy);
+            player.Shout(new Enemy(47));
         }
     }
 }

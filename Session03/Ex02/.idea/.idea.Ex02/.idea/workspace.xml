@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e263d22a-f4ae-4625-b940-5d2704d2abc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Ex01/Ex01.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/Ex01.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex01/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex01/bin/Debug/netcoreapp2.1/Ex01.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/bin/Debug/netcoreapp2.1/Ex01.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex01/bin/Debug/netcoreapp2.1/Ex01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/bin/Debug/netcoreapp2.1/Ex01.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bomb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bomb.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex02.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Ex02.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IExplodable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IExplodable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Ex02.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Ex02.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Ex02.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Ex02.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex02.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex02.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex02.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex02.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex02.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex02.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex02.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex02.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex02.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex02.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/Ex03.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03/Ex03.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/bin/Debug/netcoreapp2.1/Ex03.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/bin/Debug/netcoreapp2.1/Ex03.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/bin/Debug/netcoreapp2.1/Ex03.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/bin/Debug/netcoreapp2.1/Ex03.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/bin/Debug/netcoreapp2.1/Ex03.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Ex03.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Ex03.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Ex03.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex03/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/Enemy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/Ex04.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/bin/Debug/netcoreapp2.1/Ex04.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/bin/Debug/netcoreapp2.1/Ex04.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/bin/Debug/netcoreapp2.1/Ex04.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/bin/Debug/netcoreapp2.1/Ex04.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/bin/Debug/netcoreapp2.1/Ex04.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Ex04.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Ex04.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Ex04.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/Ex05.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/Time.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/bin/Debug/netcoreapp2.1/Ex05.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/bin/Debug/netcoreapp2.1/Ex05.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/bin/Debug/netcoreapp2.1/Ex05.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/bin/Debug/netcoreapp2.1/Ex05.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/bin/Debug/netcoreapp2.1/Ex05.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Ex05.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Ex05.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Ex05.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex05/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/Ex06.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/bin/Debug/netcoreapp2.1/Ex06.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/bin/Debug/netcoreapp2.1/Ex06.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/bin/Debug/netcoreapp2.1/Ex06.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/bin/Debug/netcoreapp2.1/Ex06.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/bin/Debug/netcoreapp2.1/Ex06.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Ex06.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Ex06.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Ex06.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex06/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/Calculator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/Ex07.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/bin/Debug/netcoreapp2.1/Ex07.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/bin/Debug/netcoreapp2.1/Ex07.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/bin/Debug/netcoreapp2.1/Ex07.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/bin/Debug/netcoreapp2.1/Ex07.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/bin/Debug/netcoreapp2.1/Ex07.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/obj/Debug/netcoreapp2.1/Ex07.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/obj/Debug/netcoreapp2.1/Ex07.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/obj/Debug/netcoreapp2.1/Ex07.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/obj/Debug/netcoreapp2.1/Ex07.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/obj/Debug/netcoreapp2.1/Ex07.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/obj/Debug/netcoreapp2.1/Ex07.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/obj/Debug/netcoreapp2.1/Ex07.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/obj/Debug/netcoreapp2.1/Ex07.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/obj/Ex07.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/obj/Ex07.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/obj/Ex07.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex07/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/Ex08.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/bin/Debug/netcoreapp2.1/Ex08.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/bin/Debug/netcoreapp2.1/Ex08.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/bin/Debug/netcoreapp2.1/Ex08.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/bin/Debug/netcoreapp2.1/Ex08.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/bin/Debug/netcoreapp2.1/Ex08.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/obj/Debug/netcoreapp2.1/Ex08.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/obj/Debug/netcoreapp2.1/Ex08.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/obj/Debug/netcoreapp2.1/Ex08.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/obj/Debug/netcoreapp2.1/Ex08.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/obj/Debug/netcoreapp2.1/Ex08.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/obj/Debug/netcoreapp2.1/Ex08.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/obj/Debug/netcoreapp2.1/Ex08.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/obj/Debug/netcoreapp2.1/Ex08.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/obj/Ex08.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/obj/Ex08.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/obj/Ex08.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex08/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/Car.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/Ex09.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/bin/Debug/netcoreapp2.1/Ex09.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/bin/Debug/netcoreapp2.1/Ex09.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/bin/Debug/netcoreapp2.1/Ex09.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/bin/Debug/netcoreapp2.1/Ex09.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/bin/Debug/netcoreapp2.1/Ex09.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/obj/Debug/netcoreapp2.1/Ex09.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/obj/Debug/netcoreapp2.1/Ex09.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/obj/Debug/netcoreapp2.1/Ex09.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/obj/Debug/netcoreapp2.1/Ex09.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/obj/Debug/netcoreapp2.1/Ex09.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/obj/Debug/netcoreapp2.1/Ex09.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/obj/Debug/netcoreapp2.1/Ex09.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/obj/Debug/netcoreapp2.1/Ex09.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/obj/Ex09.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/obj/Ex09.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/obj/Ex09.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/obj/project.assets.json" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-338325837">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="152" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="152" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <folding>
+                <marker date="1537807439980" expanded="true" signature="29:191" ph="{...}" />
+                <marker date="1537807439980" expanded="true" signature="49:189" ph="{...}" />
+                <marker date="1537807439980" expanded="true" signature="95:183" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IExplodable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <folding>
+                <marker date="1537807328448" expanded="true" signature="14:98" ph="{...}" />
+                <marker date="1537807328448" expanded="true" signature="52:96" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bomb.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+              <folding>
+                <marker date="1537807407732" expanded="true" signature="31:221" ph="{...}" />
+                <marker date="1537807407732" expanded="true" signature="77:219" ph="{...}" />
+                <marker date="1537807407732" expanded="true" signature="126:204" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Bomb.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IExplodable.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IExplodable.cs" />
+        <option value="$PROJECT_DIR$/Bomb.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Ex02" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Ex02" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Ex02" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e263d22a-f4ae-4625-b940-5d2704d2abc4" name="Default Changelist" comment="" />
+      <created>1537807208023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537807208023</updated>
+      <workItem from="1537807209135" duration="262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="262000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4147018" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32998565" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/IExplodable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <marker date="1537807328448" expanded="true" signature="14:98" ph="{...}" />
+            <marker date="1537807328448" expanded="true" signature="52:96" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bomb.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <folding>
+            <marker date="1537807407732" expanded="true" signature="31:221" ph="{...}" />
+            <marker date="1537807407732" expanded="true" signature="77:219" ph="{...}" />
+            <marker date="1537807407732" expanded="true" signature="126:204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <marker date="1537807439980" expanded="true" signature="29:191" ph="{...}" />
+            <marker date="1537807439980" expanded="true" signature="49:189" ph="{...}" />
+            <marker date="1537807439980" expanded="true" signature="95:183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

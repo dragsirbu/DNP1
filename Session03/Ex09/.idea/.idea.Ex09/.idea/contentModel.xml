@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\DNP\Session03\Ex09" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Car.cs" t="Include" />
+      <e p="Ex09.csproj" t="IncludeRecursive" />
+      <e p="Ex09.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="Ex09.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\drags\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\drags\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Ex09.1879796376.00" t="ExcludeRecursive" />
+  </component>
+</project>

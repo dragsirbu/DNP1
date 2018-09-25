@@ -1,11 +1,11 @@
-C:\DNP\Session03\Ex09\obj\Debug\netcoreapp2.1\Ex09.csprojAssemblyReference.cache
-C:\DNP\Session03\Ex09\obj\Debug\netcoreapp2.1\Ex09.csproj.CoreCompileInputs.cache
-C:\DNP\Session03\Ex09\obj\Debug\netcoreapp2.1\Ex09.AssemblyInfoInputs.cache
-C:\DNP\Session03\Ex09\obj\Debug\netcoreapp2.1\Ex09.AssemblyInfo.cs
 C:\DNP\Session03\Ex09\bin\Debug\netcoreapp2.1\Ex09.deps.json
 C:\DNP\Session03\Ex09\bin\Debug\netcoreapp2.1\Ex09.runtimeconfig.json
 C:\DNP\Session03\Ex09\bin\Debug\netcoreapp2.1\Ex09.runtimeconfig.dev.json
 C:\DNP\Session03\Ex09\bin\Debug\netcoreapp2.1\Ex09.dll
 C:\DNP\Session03\Ex09\bin\Debug\netcoreapp2.1\Ex09.pdb
+C:\DNP\Session03\Ex09\obj\Debug\netcoreapp2.1\Ex09.csprojAssemblyReference.cache
+C:\DNP\Session03\Ex09\obj\Debug\netcoreapp2.1\Ex09.csproj.CoreCompileInputs.cache
+C:\DNP\Session03\Ex09\obj\Debug\netcoreapp2.1\Ex09.AssemblyInfoInputs.cache
+C:\DNP\Session03\Ex09\obj\Debug\netcoreapp2.1\Ex09.AssemblyInfo.cs
 C:\DNP\Session03\Ex09\obj\Debug\netcoreapp2.1\Ex09.dll
 C:\DNP\Session03\Ex09\obj\Debug\netcoreapp2.1\Ex09.pdb

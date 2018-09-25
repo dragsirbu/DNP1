@@ -5,27 +5,34 @@ namespace Ex01
 {
     class Program
     {
-        static void PushParams<T>(Stack<T> stack, params T[] arguments)
+        static void pushParams<T>(Stack<T> genericStack, params T[] values)
         {
-            foreach (var parameter in arguments)
-                stack.Push(parameter);
+            foreach (var value in values)
+            {
+                genericStack.Push(value);
+            }
         }
-
+        
         static void Main(string[] args)
         {
-            Stack<int> integerStack = new Stack<int>();
-            Stack<string> stringStack = new Stack<string>();
+            var integerStack = new Stack<int>();
+            var stringStack = new Stack<string>();
+            
+            pushParams(integerStack,new int[] {1,2,3,4,5});
+            pushParams(stringStack,new string[] {"Bob","Dragos","Wendy"});
 
-            PushParams<int>(integerStack,new int[] {5,10,15,20,25});
-            PushParams<string>(stringStack,new string[] {"Hey!","Hi!","Hello!","Bye!"});
-
-            while (integerStack.Count != 0)
-                Console.Write(integerStack.Pop()+" ");
+            foreach (var value in integerStack)
+            {
+                Console.Write(value+" ");
+            }
             
             Console.WriteLine();
-
-            while (stringStack.Count != 0)
-                Console.Write(stringStack.Pop()+" ");
+            
+            foreach (var value in stringStack)
+            {
+                Console.Write(value+" ");
+            }
+            
         }
     }
 }

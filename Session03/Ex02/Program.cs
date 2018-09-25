@@ -7,7 +7,7 @@ namespace Ex02
         static void Main(string[] args)
         {
             Bomb bomb = new Bomb();
-            bomb.Explode(15.5);
+            bomb.explode(20.2);
         }
     }
 }

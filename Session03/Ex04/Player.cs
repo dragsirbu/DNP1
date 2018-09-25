@@ -4,16 +4,14 @@ namespace Ex04
 {
     public class Player
     {
-        public Player(){}
-
-        public void Shout(String sentence)
+        public void Shout(String argument)
         {
-            Console.WriteLine(sentence);
+            Console.WriteLine(argument);
         }
 
-        public void Shout(int luckyNumber)
+        public void Shout(int number)
         {
-            Console.WriteLine($"{luckyNumber} is my lucky number!");
+            Console.WriteLine($"{number} is my lucky number!");
         }
 
         public void Shout(Enemy enemy)

@@ -1,50 +1,51 @@
 ﻿using System;
 using System.Collections.Generic;
+
 namespace Ex09
 {
     class Program
     {
-
-        private static bool FindRed(Car car) =>
-            car.Color.Equals("Red");
-    
-        private static bool FindEngineBigger(Car car) =>
-            car.EngineSize > 2000;
-
-        private static bool FindEconomyLower(Car car) =>
-            car.FuelEconomy < 7;
-        
-        private static bool FindMixed(Car car) =>
-            (car.EngineSize > 2000 && car.Color.Equals("Black"));
-        static void Main(string[] args)
+        static void printList(List<Car> carList)
         {
-            List<Car> carList = new List<Car>();
+            foreach (var car in carList)
+            {
+                Console.WriteLine(car.ToString());
+            }
+        }
+        
+        static void Main(string[] args)
+        { 
+            List<Car> carList = new List<Car>()
+            {
+                new Car("Red",1500,5.8),
+                new Car("Black",1700,8.3),
+                new Car("Yellow",1540,7.4),
+                new Car("Blue",1500,3.8),
+                new Car("Red",1700,8.8),
+                new Car("Yellow",1340,4.4),
+                new Car("Black",2500,10.5),
+                new Car("Black",1550,9.1),
+                new Car("Yellow",1840,6.4),
+                new Car("Red",1630,5.5),
+                new Car("Black",2100,8.3),
+            };
 
-            carList.Add(new Car("Red",1500,7.6));
-            carList.Add(new Car("Black",3000,5.4));
-            carList.Add(new Car("Red",2000,10.2));
-            carList.Add(new Car("Black",2750,7.3));
-            carList.Add(new Car("Red",1750,3.3));
-
-            List<Car> redCars = carList.FindAll(FindRed);
-            List<Car> strongEngineCars = carList.FindAll(FindEngineBigger);
-            List<Car> weakEconomyCars = carList.FindAll(FindEconomyLower);
-            List<Car> mixedCars = carList.FindAll(FindMixed);
+            var blackCars = carList.FindAll(c => c.Color.Equals("Black"));
+            var engineBigger = carList.FindAll(c => c.EngineSize > 2000);
+            var fuelLower = carList.FindAll(c => c.FuelEconomy < 5);
+            var mixedCars = carList.FindAll(c => c.Color.Equals("Yellow") && c.EngineSize < 1600);
             
-            Console.WriteLine("Red cars:");
-            foreach (var car in redCars)
-                Console.WriteLine(car.ToString());
-            Console.WriteLine("Cars with engine power bigger than 2000");
-            foreach (var car in strongEngineCars)
-                Console.WriteLine(car.ToString());
-            Console.WriteLine("Cars with fuel economy lower than 7");
-            foreach (var car in weakEconomyCars)
-                Console.WriteLine(car.ToString());
-            Console.WriteLine("Black cars with engine power bigger than 2000");
-            foreach (var car in mixedCars)
-                Console.WriteLine(car.ToString());
-
+            Console.WriteLine("Black cars:");
+            printList(blackCars);
             
+            Console.WriteLine("Cars with engine bigger than 2000:");
+            printList(engineBigger);
+            
+            Console.WriteLine(("Cars with fuel economy lower than 5:"));
+            printList(fuelLower);
+            
+            Console.WriteLine(("Yellow cars with engine smaller than 1600:"));
+            printList(mixedCars);
         }
     }
 }
