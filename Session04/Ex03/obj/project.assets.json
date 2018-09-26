@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DNP\\Session04\\Ex02\\Ex02.csproj",
-      "projectName": "Ex02",
-      "projectPath": "C:\\DNP\\Session04\\Ex02\\Ex02.csproj",
+      "projectUniqueName": "C:\\DNP\\Session04\\Ex03\\Ex03.csproj",
+      "projectName": "Ex03",
+      "projectPath": "C:\\DNP\\Session04\\Ex03\\Ex03.csproj",
       "packagesPath": "C:\\Users\\drags\\.nuget\\packages\\",
-      "outputPath": "C:\\DNP\\Session04\\Ex02\\obj\\",
+      "outputPath": "C:\\DNP\\Session04\\Ex03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
