@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0003472e-be87-40b8-ab2c-4b84cd4d3062" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Reader.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session03/Ex09/.idea/.idea.Ex09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session03/Ex09/.idea/.idea.Ex09/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex02/.idea/.idea.Ex02/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/.idea/.idea.Ex02/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex02/.idea/.idea.Ex02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/.idea/.idea.Ex02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex02/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex02/obj/Ex02.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/obj/Ex02.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex02/obj/Ex02.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/obj/Ex02.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex02/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +14,7 @@
     <session id="1101536640">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
@@ -213,12 +206,12 @@
       <updated>1537883466696</updated>
       <workItem from="1537883467914" duration="3878000" />
       <workItem from="1537887926166" duration="1277000" />
-      <workItem from="1537944890777" duration="1736000" />
+      <workItem from="1537944890777" duration="1865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6891000" />
+    <option name="totallyTimeSpent" value="7020000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
