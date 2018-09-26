@@ -1,0 +1,70 @@
+[1mdiff --git a/Session03/Ex09/.idea/.idea.Ex09/.idea/workspace.xml b/Session03/Ex09/.idea/.idea.Ex09/.idea/workspace.xml[m
+[1mindex 845d72c..892be1c 100644[m
+[1m--- a/Session03/Ex09/.idea/.idea.Ex09/.idea/workspace.xml[m
+[1m+++ b/Session03/Ex09/.idea/.idea.Ex09/.idea/workspace.xml[m
+[36m@@ -1,94 +1,7 @@[m
+ <?xml version="1.0" encoding="UTF-8"?>[m
+ <project version="4">[m
+   <component name="ChangeListManager">[m
+[31m-    <list default="true" id="3e655727-4109-43b6-9c04-3cfd27b768dc" name="Default Changelist" comment="">[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex01/Ex01.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/Ex01.csproj" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex01/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/Program.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex01/bin/Debug/netcoreapp2.1/Ex01.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/bin/Debug/netcoreapp2.1/Ex01.dll" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex01/bin/Debug/netcoreapp2.1/Ex01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/bin/Debug/netcoreapp2.1/Ex01.pdb" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.AssemblyInfo.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.csproj.FileListAbsolute.txt" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.csprojAssemblyReference.cache" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.dll" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex01/obj/Debug/netcoreapp2.1/Ex01.pdb" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex02/Bomb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/Bomb.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex02/Ex02.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/Ex02.csproj" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex02/IExplodable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/IExplodable.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex02/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/Program.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex02/bin/Debug/netcoreapp2.1/Ex02.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/bin/Debug/netcoreapp2.1/Ex02.dll" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex02/bin/Debug/netcoreapp2.1/Ex02.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/bin/Debug/netcoreapp2.1/Ex02.pdb" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex02/obj/Debug/netcoreapp2.1/Ex02.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/obj/Debug/netcoreapp2.1/Ex02.AssemblyInfo.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex02/obj/Debug/netcoreapp2.1/Ex02.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/obj/Debug/netcoreapp2.1/Ex02.csproj.FileListAbsolute.txt" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex02/obj/Debug/netcoreapp2.1/Ex02.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/obj/Debug/netcoreapp2.1/Ex02.csprojAssemblyReference.cache" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex02/obj/Debug/netcoreapp2.1/Ex02.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/obj/Debug/netcoreapp2.1/Ex02.dll" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex02/obj/Debug/netcoreapp2.1/Ex02.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex02/obj/Debug/netcoreapp2.1/Ex02.pdb" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex03/Ex03.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03/Ex03.csproj" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex03/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03/Program.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex03/bin/Debug/netcoreapp2.1/Ex03.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03/bin/Debug/netcoreapp2.1/Ex03.dll" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex03/bin/Debug/netcoreapp2.1/Ex03.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03/bin/Debug/netcoreapp2.1/Ex03.pdb" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.AssemblyInfo.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.csproj.CoreCompileInputs.cache" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.csproj.FileListAbsolute.txt" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.csprojAssemblyReference.cache" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.dll" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex03/obj/Debug/netcoreapp2.1/Ex03.pdb" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex04/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/Enemy.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex04/Ex04.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/Ex04.csproj" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex04/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/Player.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex04/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/Program.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex04/bin/Debug/netcoreapp2.1/Ex04.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/bin/Debug/netcoreapp2.1/Ex04.dll" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex04/bin/Debug/netcoreapp2.1/Ex04.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/bin/Debug/netcoreapp2.1/Ex04.pdb" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.AssemblyInfo.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.csproj.FileListAbsolute.txt" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.csprojAssemblyReference.cache" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.dll" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/obj/Debug/netcoreapp2.1/Ex04.pdb" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex05/Ex05.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex05/Ex05.csproj" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex05/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex05/Program.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex05/bin/Debug/netcoreapp2.1/Ex05.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex05/bin/Debug/netcoreapp2.1/Ex05.dll" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex05/bin/Debug/netcoreapp2.1/Ex05.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex05/bin/Debug/netcoreapp2.1/Ex05.pdb" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.AssemblyInfo.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.csprojAssemblyReference.cache" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.dll" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex05/obj/Debug/netcoreapp2.1/Ex05.pdb" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex06/Ex06.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex06/Ex06.csproj" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex06/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex06/Program.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex06/bin/Debug/netcoreapp2.1/Ex06.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex06/bin/Debug/netcoreapp2.1/Ex06.dll" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex06/bin/Debug/netcoreapp2.1/Ex06.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex06/bin/Debug/netcoreapp2.1/Ex06.pdb" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.AssemblyInfo.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.csprojAssemblyReference.cache" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.dll" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex06/obj/Debug/netcoreapp2.1/Ex06.pdb" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex07/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex07/Calculator.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex07/Ex07.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex07/Ex07.csproj" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex07/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex07/Program.cs" afterDir="false" />[m
+[31m-      <change beforePath="$PROJECT_DIR$/../Ex07/bin/Debug/netcoreapp2.1/Ex07.dll" beforeDir="fal
