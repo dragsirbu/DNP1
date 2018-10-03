@@ -1,0 +1,11 @@
+C:\DNP\Session04\Ex04Sever\bin\Debug\netcoreapp2.1\Ex04Sever.deps.json
+C:\DNP\Session04\Ex04Sever\bin\Debug\netcoreapp2.1\Ex04Sever.runtimeconfig.json
+C:\DNP\Session04\Ex04Sever\bin\Debug\netcoreapp2.1\Ex04Sever.runtimeconfig.dev.json
+C:\DNP\Session04\Ex04Sever\bin\Debug\netcoreapp2.1\Ex04Sever.dll
+C:\DNP\Session04\Ex04Sever\bin\Debug\netcoreapp2.1\Ex04Sever.pdb
+C:\DNP\Session04\Ex04Sever\obj\Debug\netcoreapp2.1\Ex04Sever.csprojAssemblyReference.cache
+C:\DNP\Session04\Ex04Sever\obj\Debug\netcoreapp2.1\Ex04Sever.csproj.CoreCompileInputs.cache
+C:\DNP\Session04\Ex04Sever\obj\Debug\netcoreapp2.1\Ex04Sever.AssemblyInfoInputs.cache
+C:\DNP\Session04\Ex04Sever\obj\Debug\netcoreapp2.1\Ex04Sever.AssemblyInfo.cs
+C:\DNP\Session04\Ex04Sever\obj\Debug\netcoreapp2.1\Ex04Sever.dll
+C:\DNP\Session04\Ex04Sever\obj\Debug\netcoreapp2.1\Ex04Sever.pdb
