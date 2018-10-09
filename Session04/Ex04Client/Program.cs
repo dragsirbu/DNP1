@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+using System.Net;
 using System.Net.Sockets;
 using System.Text;
 
@@ -11,23 +13,34 @@ namespace Ex04Client
         
         public static void Main(string[] args)
         {
-            TcpClient client = new TcpClient(SERVER_IP,PORT_NO);
-            NetworkStream stream = client.GetStream();
-            
-            Console.Write("Enter message to server: ");
-            string message = Console.ReadLine();
-            
-            var bytesToSend = ASCIIEncoding.ASCII.GetBytes(message);
-            
-            Console.WriteLine($"Sending to server: {message}");
-            stream.Write(bytesToSend,0,bytesToSend.Length);
+            try
+            {
+                var client = new TcpClient(SERVER_IP, PORT_NO);
+                
+                var writer = new StreamWriter(client.GetStream());
+                var reader = new StreamReader(client.GetStream());
+                
+                var message = String.Empty;
+                
+                while (!(message.Equals("Exit")))
+                {
+                    Console.Write("Enter message to server: ");
+                    message = Console.ReadLine();
+                    writer.WriteLine(message);
+                    writer.Flush();
 
-            var serverMessage = new byte[client.ReceiveBufferSize];
-            var bytesRead = stream.Read(serverMessage, 0, serverMessage.Length);
+                    var messageFromServer = reader.ReadLine();
+                    Console.WriteLine(messageFromServer);
+                }
+                reader.Close();
+                writer.Close();
+                client.Close();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
             
-            Console.WriteLine($"Server: {Encoding.ASCII.GetString(serverMessage,0,bytesRead)}");
-            
-            client.Close();
 
         }
     }

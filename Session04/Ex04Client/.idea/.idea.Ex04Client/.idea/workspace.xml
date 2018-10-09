@@ -2,12 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbd1a47-ab88-4d20-aecd-c27c3bc7f3f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Ex04/Server/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex04/.idea/.idea.Ex04/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/.idea/.idea.Ex04/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex04/.idea/.idea.Ex04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/.idea/.idea.Ex04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex04/Ex04.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/Ex04.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex04/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_File" beforeDir="false" afterPath="$PROJECT_DIR$/../Test_File" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ex04Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ex04Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex04Client.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Ex04Client.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Ex04Client.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Ex04Client.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Ex04Client.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Ex04Client.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04Sever/.idea/.idea.Ex04Sever/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04Sever/.idea/.idea.Ex04Sever/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04Sever/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04Sever/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04Sever/obj/Debug/netcoreapp2.1/Ex04Sever.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04Sever/obj/Debug/netcoreapp2.1/Ex04Sever.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04Sever/obj/Ex04Sever.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04Sever/obj/Ex04Sever.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04Sever/obj/Ex04Sever.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04Sever/obj/Ex04Sever.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex04Sever/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04Sever/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.Ex01/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.Ex01/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.Ex01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.Ex01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.Ex01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.Ex01/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.exercise_1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.exercise_1/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.exercise_1/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.exercise_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.exercise_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.exercise_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/.idea/.idea.exercise_1/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/GameModel.Tests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/HeroTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/bin/Debug/netcoreapp2.1/GameModel.Tests.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/bin/Debug/netcoreapp2.1/GameModel.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/bin/Debug/netcoreapp2.1/GameModel.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/bin/Debug/netcoreapp2.1/GameModel.Tests.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/bin/Debug/netcoreapp2.1/GameModel.Tests.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/bin/Debug/netcoreapp2.1/GameModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/bin/Debug/netcoreapp2.1/GameModel.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/GameModel.Tests.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/GameModel.Tests.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/GameModel.Tests.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel.Tests/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/GameModel.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/Hero.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/Weapon.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/bin/Debug/netstandard2.0/GameModel.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/bin/Debug/netstandard2.0/GameModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/bin/Debug/netstandard2.0/GameModel.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/Debug/netstandard2.0/GameModel.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/Debug/netstandard2.0/GameModel.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/Debug/netstandard2.0/GameModel.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/Debug/netstandard2.0/GameModel.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/Debug/netstandard2.0/GameModel.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/Debug/netstandard2.0/GameModel.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/Debug/netstandard2.0/GameModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/Debug/netstandard2.0/GameModel.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/GameModel.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/GameModel.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/GameModel.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/GameModel/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/Ex01/exercise_1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/.idea/.idea.exercise_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/.idea/.idea.exercise_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/.vs/exercise_1/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/.vs/exercise_1/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/HeroTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/HeroTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/bin/Debug/netcoreapp2.1/GameModel.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/bin/Debug/netcoreapp2.1/GameModel.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/bin/Debug/netcoreapp2.1/GameModel.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/bin/Debug/netcoreapp2.1/GameModel.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/GameModel.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/GameModel.Tests.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel/obj/Debug/netstandard2.0/GameModel.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel/obj/Debug/netstandard2.0/GameModel.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel/obj/GameModel.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel/obj/GameModel.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session06/exercise_1/GameModel/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeacherCode/exercises_06" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeacherCode/exercises_06" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +102,8 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -36,28 +118,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="160" />
+          <entry key="cs" value="618" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="160" />
+          <entry key="C#" value="618" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="91" selection-start-line="27" selection-start-column="91" selection-end-line="27" selection-end-column="91" />
+            <state relative-caret-position="315">
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
               <folding>
-                <marker date="1537958305896" expanded="true" signature="6:58" ph="..." />
-                <marker date="1537958305896" expanded="true" signature="80:1045" ph="{...}" />
-                <marker date="1537958305896" expanded="true" signature="100:1043" ph="{...}" />
-                <marker date="1537958305896" expanded="true" signature="258:1037" ph="{...}" />
+                <marker date="1539107746354" expanded="true" signature="6:93" ph="..." />
+                <marker date="1539107746354" expanded="true" signature="115:1271" ph="{...}" />
+                <marker date="1539107746354" expanded="true" signature="135:1269" ph="{...}" />
+                <marker date="1539107746354" expanded="true" signature="293:1263" ph="{...}" />
+                <marker date="1539107746354" expanded="true" signature="319:1141" ph="{...}" />
+                <marker date="1539107746354" expanded="true" signature="676:1031" ph="{...}" />
+                <marker date="1539107746354" expanded="true" signature="1173:1239" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -85,7 +170,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
+    <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
@@ -119,6 +204,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ex04Sever" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,19 +220,24 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Ex04Client.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Ex04Client.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -163,11 +254,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537957631777</updated>
       <workItem from="1537957633154" duration="1320000" />
+      <workItem from="1539103267230" duration="1317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1320000" />
+    <option name="totallyTimeSpent" value="2637000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,37 +271,39 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19001387" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32998565" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32998565" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32624114" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32998565" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -227,13 +321,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="91" selection-start-line="27" selection-start-column="91" selection-end-line="27" selection-end-column="91" />
+        <state relative-caret-position="315">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
           <folding>
-            <marker date="1537958305896" expanded="true" signature="6:58" ph="..." />
-            <marker date="1537958305896" expanded="true" signature="80:1045" ph="{...}" />
-            <marker date="1537958305896" expanded="true" signature="100:1043" ph="{...}" />
-            <marker date="1537958305896" expanded="true" signature="258:1037" ph="{...}" />
+            <marker date="1539107746354" expanded="true" signature="6:93" ph="..." />
+            <marker date="1539107746354" expanded="true" signature="115:1271" ph="{...}" />
+            <marker date="1539107746354" expanded="true" signature="135:1269" ph="{...}" />
+            <marker date="1539107746354" expanded="true" signature="293:1263" ph="{...}" />
+            <marker date="1539107746354" expanded="true" signature="319:1141" ph="{...}" />
+            <marker date="1539107746354" expanded="true" signature="676:1031" ph="{...}" />
+            <marker date="1539107746354" expanded="true" signature="1173:1239" ph="{...}" />
           </folding>
         </state>
       </provider>
