@@ -1,0 +1,14 @@
+C:\DNP\Session09\CarsApi\CarsApi\bin\Debug\netcoreapp2.1\CarsApi.deps.json
+C:\DNP\Session09\CarsApi\CarsApi\bin\Debug\netcoreapp2.1\CarsApi.runtimeconfig.json
+C:\DNP\Session09\CarsApi\CarsApi\bin\Debug\netcoreapp2.1\CarsApi.runtimeconfig.dev.json
+C:\DNP\Session09\CarsApi\CarsApi\bin\Debug\netcoreapp2.1\CarsApi.dll
+C:\DNP\Session09\CarsApi\CarsApi\obj\Debug\netcoreapp2.1\CarsApi.csprojAssemblyReference.cache
+C:\DNP\Session09\CarsApi\CarsApi\obj\Debug\netcoreapp2.1\CarsApi.csproj.CoreCompileInputs.cache
+C:\DNP\Session09\CarsApi\CarsApi\obj\Debug\netcoreapp2.1\CarsApi.RazorAssemblyInfo.cache
+C:\DNP\Session09\CarsApi\CarsApi\obj\Debug\netcoreapp2.1\CarsApi.RazorAssemblyInfo.cs
+C:\DNP\Session09\CarsApi\CarsApi\obj\Debug\netcoreapp2.1\CarsApi.AssemblyInfoInputs.cache
+C:\DNP\Session09\CarsApi\CarsApi\obj\Debug\netcoreapp2.1\CarsApi.AssemblyInfo.cs
+C:\DNP\Session09\CarsApi\CarsApi\obj\Debug\netcoreapp2.1\CarsApi.RazorTargetAssemblyInfo.cache
+C:\DNP\Session09\CarsApi\CarsApi\bin\Debug\netcoreapp2.1\CarsApi.pdb
+C:\DNP\Session09\CarsApi\CarsApi\obj\Debug\netcoreapp2.1\CarsApi.dll
+C:\DNP\Session09\CarsApi\CarsApi\obj\Debug\netcoreapp2.1\CarsApi.pdb

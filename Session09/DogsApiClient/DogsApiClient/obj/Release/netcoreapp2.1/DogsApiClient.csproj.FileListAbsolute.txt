@@ -1,0 +1,3 @@
+C:\DNP\Session09\DogsApiClient\DogsApiClient\obj\Release\netcoreapp2.1\DogsApiClient.csproj.CoreCompileInputs.cache
+C:\DNP\Session09\DogsApiClient\DogsApiClient\obj\Release\netcoreapp2.1\DogsApiClient.AssemblyInfoInputs.cache
+C:\DNP\Session09\DogsApiClient\DogsApiClient\obj\Release\netcoreapp2.1\DogsApiClient.AssemblyInfo.cs

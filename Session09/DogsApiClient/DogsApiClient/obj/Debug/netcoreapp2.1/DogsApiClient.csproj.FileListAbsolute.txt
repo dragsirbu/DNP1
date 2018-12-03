@@ -1,0 +1,11 @@
+C:\DNP\Session09\DogsApiClient\DogsApiClient\obj\Debug\netcoreapp2.1\DogsApiClient.csprojAssemblyReference.cache
+C:\DNP\Session09\DogsApiClient\DogsApiClient\obj\Debug\netcoreapp2.1\DogsApiClient.csproj.CoreCompileInputs.cache
+C:\DNP\Session09\DogsApiClient\DogsApiClient\obj\Debug\netcoreapp2.1\DogsApiClient.AssemblyInfoInputs.cache
+C:\DNP\Session09\DogsApiClient\DogsApiClient\obj\Debug\netcoreapp2.1\DogsApiClient.AssemblyInfo.cs
+C:\DNP\Session09\DogsApiClient\DogsApiClient\bin\Debug\netcoreapp2.1\DogsApiClient.deps.json
+C:\DNP\Session09\DogsApiClient\DogsApiClient\bin\Debug\netcoreapp2.1\DogsApiClient.runtimeconfig.json
+C:\DNP\Session09\DogsApiClient\DogsApiClient\bin\Debug\netcoreapp2.1\DogsApiClient.runtimeconfig.dev.json
+C:\DNP\Session09\DogsApiClient\DogsApiClient\bin\Debug\netcoreapp2.1\DogsApiClient.dll
+C:\DNP\Session09\DogsApiClient\DogsApiClient\bin\Debug\netcoreapp2.1\DogsApiClient.pdb
+C:\DNP\Session09\DogsApiClient\DogsApiClient\obj\Debug\netcoreapp2.1\DogsApiClient.dll
+C:\DNP\Session09\DogsApiClient\DogsApiClient\obj\Debug\netcoreapp2.1\DogsApiClient.pdb

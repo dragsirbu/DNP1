@@ -1,0 +1,14 @@
+C:\DNP\Session09\DogsApi\DogsApi\bin\Debug\netcoreapp2.1\DogsApi.deps.json
+C:\DNP\Session09\DogsApi\DogsApi\bin\Debug\netcoreapp2.1\DogsApi.runtimeconfig.json
+C:\DNP\Session09\DogsApi\DogsApi\bin\Debug\netcoreapp2.1\DogsApi.runtimeconfig.dev.json
+C:\DNP\Session09\DogsApi\DogsApi\bin\Debug\netcoreapp2.1\DogsApi.dll
+C:\DNP\Session09\DogsApi\DogsApi\obj\Debug\netcoreapp2.1\DogsApi.csprojAssemblyReference.cache
+C:\DNP\Session09\DogsApi\DogsApi\obj\Debug\netcoreapp2.1\DogsApi.csproj.CoreCompileInputs.cache
+C:\DNP\Session09\DogsApi\DogsApi\obj\Debug\netcoreapp2.1\DogsApi.RazorAssemblyInfo.cache
+C:\DNP\Session09\DogsApi\DogsApi\obj\Debug\netcoreapp2.1\DogsApi.RazorAssemblyInfo.cs
+C:\DNP\Session09\DogsApi\DogsApi\obj\Debug\netcoreapp2.1\DogsApi.AssemblyInfoInputs.cache
+C:\DNP\Session09\DogsApi\DogsApi\obj\Debug\netcoreapp2.1\DogsApi.AssemblyInfo.cs
+C:\DNP\Session09\DogsApi\DogsApi\obj\Debug\netcoreapp2.1\DogsApi.RazorTargetAssemblyInfo.cache
+C:\DNP\Session09\DogsApi\DogsApi\bin\Debug\netcoreapp2.1\DogsApi.pdb
+C:\DNP\Session09\DogsApi\DogsApi\obj\Debug\netcoreapp2.1\DogsApi.dll
+C:\DNP\Session09\DogsApi\DogsApi\obj\Debug\netcoreapp2.1\DogsApi.pdb
